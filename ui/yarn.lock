@@ -2112,10 +2112,10 @@
   dependencies:
     "@types/react" "*"
 
-"@types/react-form@^4.0.2":
-  version "4.0.2"
-  resolved "https://registry.yarnpkg.com/@types/react-form/-/react-form-4.0.2.tgz#80111ad1dc7f5501fc646affbf659972c8a0c3da"
-  integrity sha512-NEE2Zn9t5StOBsYTe8I9eu9ys61g1GdfudI4ZAPwoyAEOg6OWukhrh/ZPuz50dadFaQG+9c3p9yq7abRRqZP9g==
+"@types/react-form@^4.0.3":
+  version "4.0.3"
+  resolved "https://registry.yarnpkg.com/@types/react-form/-/react-form-4.0.3.tgz#2228eb4dd5f689ef2cb5c2b1992c51878bca3a9c"
+  integrity sha512-yikHqkIfwXZZe7c6R+4OKLLFbkcVtXWjJXxkTDvamBNaaEfosNB/SY8AqBSDg0e7XYWgLs4zmqB2kyJKVG5aYw==
   dependencies:
     "@types/react" "*"
 
@@ -10135,6 +10135,7 @@ stringstream@~0.0.4:
   resolved "https://registry.yarnpkg.com/stringstream/-/stringstream-0.0.6.tgz#7880225b0d4ad10e30927d167a1d6f2fd3b33a72"
 
 "strip-ansi-cjs@npm:strip-ansi@^6.0.1", strip-ansi@^6.0.1:
+  name strip-ansi-cjs
   version "6.0.1"
   resolved "https://registry.yarnpkg.com/strip-ansi/-/strip-ansi-6.0.1.tgz#9e26c63d30f53443e9489495b2105d37b67a85d9"
   integrity sha512-Y38VPSHcqkFrCpFnQ9vuSXmquuv5oXOKpGeT6aGrr3o3Gc9AlVa6JBfUSOCnbxGGZF+/0ooI7KrPuUSztUdU5A==
