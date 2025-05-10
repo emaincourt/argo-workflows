@@ -1,6 +1,7 @@
 module github.com/argoproj/argo-workflows/v3
 
-go 1.18
+go 1.23.0
+
 toolchain go1.24.1
 
 require (
@@ -50,7 +51,7 @@ require (
 	golang.org/x/crypto v0.36.0
 	golang.org/x/net v0.37.0
 	golang.org/x/oauth2 v0.28.0
-	golang.org/x/sync v0.12.0
+	golang.org/x/sync v0.14.0
 	golang.org/x/time v0.11.0
 	google.golang.org/api v0.227.0
 	google.golang.org/genproto/googleapis/api v0.0.0-20250303144028-a0af3efb3deb
