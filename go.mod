@@ -25,7 +25,7 @@ require (
 	github.com/go-sql-driver/mysql v1.9.2
 	github.com/gogo/protobuf v1.3.2
 	github.com/golang/protobuf v1.5.4
-	github.com/google/go-containerregistry v0.20.5
+	github.com/google/go-containerregistry v0.20.6
 	github.com/google/go-containerregistry/pkg/authn/k8schain v0.0.0-20220411142604-2042cc9d6401
 	github.com/gorilla/handlers v1.5.2
 	github.com/gorilla/websocket v1.5.3
@@ -124,7 +124,7 @@ require (
 	github.com/cyphar/filepath-securejoin v0.2.4 // indirect
 	github.com/davecgh/go-spew v1.1.2-0.20180830191138-d8f796af33cc // indirect
 	github.com/dimchansky/utfbom v1.1.1 // indirect
-	github.com/docker/cli v28.1.1+incompatible // indirect
+	github.com/docker/cli v28.2.2+incompatible // indirect
 	github.com/docker/distribution v2.8.3+incompatible // indirect
 	github.com/docker/docker-credential-helpers v0.9.3 // indirect
 	github.com/dustin/go-humanize v1.0.1 // indirect
@@ -140,7 +140,7 @@ require (
 	github.com/go-git/go-billy/v5 v5.5.0 // indirect
 	github.com/go-ini/ini v1.67.0 // indirect
 	github.com/go-jose/go-jose/v4 v4.0.5 // indirect
-	github.com/go-logr/logr v1.4.2 // indirect
+	github.com/go-logr/logr v1.4.3 // indirect
 	github.com/go-logr/stdr v1.2.2 // indirect
 	github.com/go-openapi/jsonpointer v0.21.0 // indirect
 	github.com/go-openapi/swag v0.23.0 // indirect
